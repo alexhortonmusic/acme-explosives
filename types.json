@@ -1,0 +1,42 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations."
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "commercial",
+            "description": "Fireworks intended for commercial usage; to be used by professionals only."
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "redneck",
+            "description": "Somewhere in between personal and commercial grade."
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "commercial",
+            "description": "For smaller operations like quarries and insurance scams."
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "military",
+            "description": "For military purposes/world domination."
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "Wile E. Coyote",
+            "description": "Cartoon-grade explosives"
+        },
+
+
+    ]
+}
