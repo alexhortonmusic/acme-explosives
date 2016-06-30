@@ -14,29 +14,15 @@
         },
         {
             "id": 2,
-            "category": 0,
-            "name": "redneck",
-            "description": "Somewhere in between personal and commercial grade."
-        },
-        {
-            "id": 3,
             "category": 1,
             "name": "commercial",
             "description": "For smaller operations like quarries and insurance scams."
         },
         {
-            "id": 4,
+            "id": 3,
             "category": 1,
             "name": "military",
             "description": "For military purposes/world domination."
-        },
-        {
-            "id": 5,
-            "category": 1,
-            "name": "Wile E. Coyote",
-            "description": "Cartoon-grade explosives"
-        },
-
-
+        }
     ]
 }

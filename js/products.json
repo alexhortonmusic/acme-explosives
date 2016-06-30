@@ -1,0 +1,77 @@
+{
+    "products": [
+    	{
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+	        },
+        "party_poppers": {
+            "id": 1,
+            "type": 0,
+            "name": "Party Poppers",
+            "description": "Single pull poppers- great for parties!"
+	        },
+        "standard_candle": {
+            "id": 2,
+            "type": 0,
+            "name": "Standard Candle",
+            "description": "A favorite of Amish communities for decades!"
+	        },
+        "peony": {
+            "id": 3,
+            "type": 1,
+            "name": "Peony",
+            "description": "No tails, no trails, just pure crackly, sparkly, globe-shaped bliss."
+	        },
+        "beehive": {
+            "id": 4,
+            "type": 1,
+            "name": "Beehive",
+            "description": "These flurries of colorful stars resemble the frantic swarm-like movements of an angered bee colony."
+	        },
+        "crosette": {
+            "id": 5,
+            "type": 1,
+            "name": "Crosette",
+            "description": "A crosette is like the firework equivalent of planarian reproduction: a comet splits into two at the apex of its launch, and boom, you’ve got a crosette."
+	        },
+        "thermite": {
+            "id": 6,
+            "type": 2,
+            "name": "Thermite",
+            "description": "A fine powder that produces a very high temperature on combustion."
+	        },
+        "thermate": {
+            "id": 7,
+            "type": 2,
+            "name": "Thermate",
+            "description": "Thermite, plus sulfur."
+	        },
+        "dynamite": {
+            "id": 8,
+            "type": 2,
+            "name": "Dynamite",
+            "description": "For blowing up roads."
+	        },
+        "atom_bomb": {
+            "id": 9,
+            "type": 3,
+            "name": "Atomic Bomb",
+            "description": "Responsible for the destruction of Hiroshima."
+	        },
+        "depth_charge": {
+            "id": 10,
+            "type": 3,
+            "name": "Depth Charge",
+            "description": "Deployed underwater; for destroying submarines."
+	        },
+        "grenade": {
+            "id": 11,
+            "type": 3,
+            "name": "Grenade",
+            "description": "A small bomb that you throw."
+	        }
+		}]
+}
