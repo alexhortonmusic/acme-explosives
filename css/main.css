@@ -1,0 +1,26 @@
+.header {
+  height: 250px;
+  border: 3px solid #e74c3c;
+  background: lightgrey; }
+  .header .title {
+    font-family: 'Galada', cursive;
+    color: #34495e;
+    background: white;
+    text-align: center;
+    margin: 50px auto;
+    border: 1px solid #e74c3c;
+    padding-top: 10px;
+    width: 600px; }
+  .header #acmeSelect {
+    display: block;
+    margin: 40px auto 0;
+    width: 250px; }
+
+.productCard .productName {
+  text-align: center;
+  color: #e67e22; }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Verdana', sans-serif; }

@@ -80,8 +80,8 @@ $(document).ready(function () {
 						product.type = "Commercial";
 					}
 					htmlStr += `
-						<div class="col-md-4">
-							<h3>${product.name}</h3>
+						<div class="col-md-4 productCard">
+							<h3 class="productName">${product.name}</h3>
 							<h4>${product.description}</h4>
 							<p>${product.type} ${category}</p>
 						</div>
@@ -96,8 +96,8 @@ $(document).ready(function () {
 							product.type = "Military";
 						}
 						htmlStr += `
-						<div class="col-md-4">
-							<h3>${product.name}</h3>
+						<div class="col-md-4 productCard">
+							<h3 class="productName">${product.name}</h3>
 							<h4>${product.description}</h4>
 							<p>${product.type} ${category}</p>
 						</div>
